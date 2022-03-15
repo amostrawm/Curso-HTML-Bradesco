@@ -36,12 +36,12 @@ Você pode aplicar o mesmo estilo a várias salas, que é exatamente como funcio
 
 Você pode usar regras de CSS para aplicar estilos ao HTML.
 
-O elemento de lista não ordenada ul {} é um seletor que seleciona o elemento HTML <ul> ao qual aplicará os estilos.
+O elemento de lista não ordenada ul {} é um seletor que seleciona o elemento HTML < ul > ao qual aplicará os estilos.
 A declaração é font-family: helvetica e informa o que esse estilo deve ser.
 
 O nome da propriedade é font-family e o valor é helvetica. A propriedade e o valor juntos formam um par chave-valor.
 
-O que você selecionará é um elemento existente que definimos anteriormente em HTML (<body> e <ul>).
+O que você selecionará é um elemento existente que definimos anteriormente em HTML (< body > e < ul >).
 
 ## Seletores
 
