@@ -132,6 +132,3 @@ switcher.addEventListener('click', function(){
 No código anterior, você usou o método toggle para alternar o elemento para a classe dark-theme.
 
 Isso aplica, automaticamente, os estilos de tema escuro em vez do tema claro. No entanto, o rótulo do botão também precisa ser atualizado para mostrar o tema correto, portanto, você precisa adicionar uma instrução if para verificar o tema atual e atualizar o rótulo do botão.
-
-
-
